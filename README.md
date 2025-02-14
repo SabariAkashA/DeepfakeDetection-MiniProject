@@ -25,13 +25,13 @@ This project addresses the growing challenge of deepfake detection in digital me
 
 ## Output
 #### Output1 - Real Video:
-<img src=https://github.com/user-attachments/assets/f48b589d-db64-4dc2-9af8-95b4a4942558 width=500 height=500>
+<img src=https://github.com/user-attachments/assets/48dc1f6c-7157-4597-9603-35b06f133d1e width=500 height=500>
 
 #### Output2 - Fake Video:
-<img src=https://github.com/user-attachments/assets/48f956be-a827-43b6-ab4b-c37d680c4a14 width=500 height=500>
+<img src=https://github.com/user-attachments/assets/18fe3c31-898b-4424-bb55-dc1e62100114 width=500 height=500>
 
-Detection Accuracy: 97.76180%
-Note: These metrics can be customized based on your actual performance evaluations.
+**Detection Accuracy: 97.76180%**<br>
+**Note:** These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
